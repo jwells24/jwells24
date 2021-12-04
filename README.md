@@ -1,6 +1,8 @@
 My name is Jack Wells.
 
-I am currently pursuing a Bachelor's degree in Computer Networking and Cybersecurity at Champlain College in Burlington, Vermont. 
+I am currently pursuing a Bachelor's degree in _Computer Networking and Cybersecurity at Champlain College_ in Burlington, Vermont, with a specialization in Cybersecurity Operations. 
+<br>
+<br>
 My skills and hobbies include anything computer security related, internet security, working with different linux dystros, creating my own workspaces and 
 environments with virtual machines, and hardening machines or servers. 
 
